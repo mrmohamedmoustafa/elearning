@@ -4,7 +4,10 @@ function Text () {
   const { t } = useTranslation();
 
   return (
-    <p>{t('text')}</p>
+    <div>
+      {t('text')}
+    </div>
+
   )
 }
 
