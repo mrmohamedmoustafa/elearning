@@ -6,7 +6,7 @@ import i18n from './i18n';
 import LocaleContext from './LocaleContext';
 import Helmet from 'react-helmet';
 import { t } from 'i18next';
-import Navbar2 from './components/Navbar';
+import NavMenu from './components/NavMenu';
 import Greeting from './components/Greeting';
 import Loading from './components/Loading';
 import Navigation from './components/Navigation';
@@ -29,8 +29,8 @@ function App() {
         }} />
         <ThemeProvider dir={locale === 'en' ? 'ltr' : 'rtl'}></ThemeProvider>
         <Navigation />
-          <Container className={locale === 'en' ? 'fontEn' : 'fontAr' }>
-            <Navbar2 />
+          <Container fluid className={locale === 'en' ? 'fontEn' : 'fontAr' }>
+            <NavMenu />
             <Greeting />
             <Text />
           </Container>

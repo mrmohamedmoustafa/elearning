@@ -1,6 +1,16 @@
-.fontAr{font-family: Droid; font-size: 11px;}
+.fontAr{font-family: Droid; font-size: 1rem;}
 .fontEn{font-family: 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;}
-.lang-dropdown{position: absolute; left: auto; margin-top: -20px;}
+    sans-serif; font-size: 1rem;}
+.lang-dropdown{position: absolute; left: auto; margin-top: -8px; z-index: 99;}
+.lang-dropdown > a#basic-nav-dropdown {
+    color: #fff; padding-right: 0;padding-left: 0;
+}
+.dean-name{color: #fff;}
+
+
+@media only screen and (max-width: 779px){
+    .dean-name{display: none;}
+
+}
 

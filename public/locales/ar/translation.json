@@ -5,5 +5,14 @@
     "twitter": "تويتر",
     "facebook": "فيسبوك",
     "youtube": "يوتيوب",
-    "snapchat": "سناب شات"
+    "snapchat": "سناب شات",
+    "home-link": "الرئيسية",
+    "about-link": "عن العمادة",
+    "departments-link": "وكالات العمادة",
+    "develop-link": "وكالة التطوير",
+    "elearn-link": "وكالة التعليم عن بُعد",
+    "tech-link": "وكالة الشؤون الفنية",
+    "female-link": "وكالة شطر الطالبات",
+    "img-path": "images/logo.png",
+    "dean-name": "عمادة التعلم الالكتروني والتعليم عن بُعد |"
 }

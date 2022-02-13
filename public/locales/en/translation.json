@@ -5,5 +5,14 @@
     "twitter": "twitter",
     "facebook": "facebook",
     "youtube": "youtube",
-    "snapchat": "snapchat"
+    "snapchat": "snapchat",
+    "home-link": "Home",
+    "about-link": "The Deanship ",
+    "departments-link": "Deanship Agencies",
+    "develop-link": "Development Agency",
+    "elearn-link": "Distance Education Agency",
+    "tech-link": "Technical Affairs Agency",
+    "female-link": "Female Student Agency",
+    "img-path": "images/logo.png",
+    "dean-name": "Deanship of e-Learning and Distance Education |"
   }
